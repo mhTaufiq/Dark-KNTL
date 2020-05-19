@@ -1,6 +1,3 @@
-# Dark-KNTL
-Auto Crack Account Fb + New 20 WORDLIST!
-
 # Description
 <img src="https://github.com/mhTaufiq/Dark-KNTL/blob/master/IMG_20200519_122634.jpg">
 <img src="https://github.com/mhTaufiq/Dark-KNTL/blob/master/IMG_20200519_122709.jpg">
