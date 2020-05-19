@@ -4,10 +4,10 @@
 
 # How to install?
 ```
-pkg install python python2 -y
-pkg install git -y
-pip2 install requests mechanize
-git clone https://github.com/mhTaufiq/Dark-KNTL
-cd Dark-KNTL
-python2 darkfb-new.py
+$ pkg install python python2 -y
+$ pkg install git -y
+$ pip2 install requests mechanize
+$ git clone https://github.com/mhTaufiq/Dark-KNTL
+$ cd Dark-KNTL
+$ python2 darkfb-new.py
 ```
